@@ -1,0 +1,34 @@
+P	Q	X	V	C	I	T	N	A	H	P	E	L	E	J	A	P	F	B	H	E	L	Y	L	R
+A	O	U	M	A	U	A	X	U	C	T	F	L	D	D	U	B	D	Z	G	H	V	W	I	W
+P	P	L	D	O	Z	O	M	B	G	S	T	P	N	D	K	I	F	J	R	U	L	R	W	X
+P	A	W	A	G	T	G	T	W	E	L	V	A	I	X	X	X	D	K	Y	D	F	H	Q	K
+J	K	G	Z	R	E	N	T	D	K	P	P	Y	Q	D	A	W	A	S	I	U	Y	K	O	U
+Q	F	O	G	L	B	I	O	W	A	W	E	G	S	K	T	Q	L	X	S	I	E	F	T	U
+C	N	X	Q	C	G	E	L	J	A	V	Y	H	T	A	M	C	I	O	S	Z	U	D	T	G
+C	L	O	B	E	H	L	A	Y	P	N	E	M	D	V	T	M	C	C	G	C	G	J	B	H
+N	I	T	R	K	J	N	E	R	U	C	C	O	Y	J	I	R	G	T	B	I	G	I	Z	X
+H	O	X	W	C	Y	H	H	I	P	M	V	X	X	O	U	Z	V	J	C	A	A	R	H	U
+X	N	E	U	X	N	K	D	I	N	P	L	K	K	O	V	K	A	D	C	C	U	X	D	V
+G	T	K	Z	D	P	G	X	W	B	U	Z	G	J	M	N	O	U	U	A	M	A	U	Z	M
+P	L	K	T	L	A	R	N	J	S	W	O	E	Y	Q	Y	I	W	R	C	G	X	E	W	S
+X	S	B	V	C	Z	U	M	K	S	R	R	Q	H	Q	J	D	U	M	X	P	L	E	V	D
+M	E	Y	T	U	B	Y	A	K	R	Z	I	G	H	O	P	T	R	G	K	T	S	G	Q	F
+L	R	T	T	O	C	C	R	H	I	Y	P	W	R	S	F	N	V	B	N	B	C	V	R	D
+E	Y	A	W	M	V	Y	A	T	H	H	Z	A	X	L	U	A	Q	A	I	E	Z	F	P	S
+T	B	C	I	G	K	F	A	W	Y	S	Y	Q	Q	Y	M	C	D	J	H	Q	P	F	X	E
+N	T	R	Z	D	R	L	L	B	E	G	I	R	A	F	F	E	G	W	X	W	S	U	M	W
+G	G	H	Z	N	O	M	I	D	P	B	U	P	H	M	J	W	I	E	A	T	B	S	V	D
+Y	Q	T	O	P	R	J	R	C	E	T	Z	X	O	V	N	V	D	S	N	O	V	D	H	W
+P	X	D	O	C	X	G	Z	D	Q	W	Y	J	P	V	P	F	Z	C	O	K	X	B	V	J
+Q	T	V	U	E	P	U	Y	T	Q	J	F	T	I	S	S	R	Z	Y	A	A	C	L	O	K
+O	W	X	H	X	H	O	R	H	H	O	C	I	M	Y	T	V	B	R	Z	Y	S	A	V	E
+R	O	S	X	H	U	F	W	L	Q	B	X	X	R	O	U	S	C	I	Q	L	D	M	Z	B
+
+ELEPHANT
+LION
+POLARBEAR
+GIRAFFE
+PANDA
+TIGER
+GOAT
+PENGUIN

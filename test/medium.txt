@@ -1,0 +1,33 @@
+P	L	V	D	I	Y	I	C	F	I	S	E	J	G	Q	Q	M	J	T	Q	D	J	Z	N	T
+Z	Y	V	A	K	E	Y	S	J	R	T	C	W	S	G	E	T	I	C	A	X	B	G	K	O
+L	K	V	G	W	K	C	G	S	F	P	A	U	B	W	Z	P	R	P	F	E	I	E	U	A
+N	Y	R	E	V	N	I	Z	D	D	F	D	M	Z	P	H	F	R	W	F	E	R	T	A	D
+T	W	L	I	C	O	S	L	D	K	C	G	R	B	W	L	F	P	U	K	H	X	Y	J	R
+V	A	Y	G	I	M	F	H	I	R	G	L	L	S	U	S	R	X	T	M	I	F	D	J	U
+T	W	F	P	P	C	S	S	R	N	R	I	X	A	J	I	V	S	F	B	N	U	K	P	X
+Z	L	Z	W	A	T	U	A	T	O	N	Y	V	B	U	X	Y	O	M	N	C	U	Z	C	J
+C	X	U	L	O	Y	T	P	I	U	W	P	C	O	Q	V	G	E	F	K	H	U	I	G	O
+E	M	L	X	Q	B	A	H	J	S	S	K	Y	F	D	M	U	V	D	O	Y	F	H	B	L
+Y	B	X	X	Z	V	A	O	F	U	V	Q	E	W	G	I	Z	R	G	Y	F	R	H	Q	B
+K	B	B	P	S	Z	B	W	A	B	M	C	R	P	Z	U	S	C	W	P	U	B	U	L	S
+Y	L	V	C	Q	Z	Z	Q	Z	P	D	H	K	N	J	V	U	D	J	A	N	N	Y	W	J
+G	F	K	A	E	G	K	T	S	O	O	L	Q	L	Y	K	B	R	D	A	A	I	R	Q	U
+X	D	V	J	U	P	O	A	J	W	J	N	G	X	U	E	I	D	G	X	B	X	Q	K	P
+O	U	D	K	X	X	D	S	L	H	Q	A	M	Z	K	U	X	R	Q	V	S	F	X	G	Z
+G	R	C	M	T	Y	T	I	I	P	W	G	O	T	X	V	U	K	X	Z	B	B	N	J	F
+K	Y	I	R	F	U	J	B	Z	V	R	F	O	G	D	C	I	O	H	I	T	A	E	P	Y
+Z	F	N	F	O	M	K	F	L	O	F	X	D	E	D	Z	D	B	E	M	L	V	K	F	C
+A	R	R	M	M	L	N	Y	R	G	G	T	S	N	E	K	W	K	Q	Z	U	H	O	A	S
+F	O	N	G	E	N	E	F	V	N	Y	K	O	I	T	F	P	L	R	W	F	B	W	C	F
+G	C	L	P	X	O	P	O	R	A	H	D	P	I	R	Y	Z	L	G	O	R	U	Y	G	O
+U	R	O	T	A	G	I	L	L	A	W	A	G	W	Z	P	O	Z	R	V	T	D	O	K	X
+N	O	F	N	V	W	Q	Y	M	T	U	M	E	E	R	K	A	T	U	U	Q	S	J	K	Z
+O	A	W	D	T	W	S	N	Z	Q	D	M	R	P	C	U	Z	U	R	N	W	H	E	Y	Z
+
+ALLIGATOR
+MEERKAT
+TOAD
+BEAR
+MONKEY
+FROG
+STORK

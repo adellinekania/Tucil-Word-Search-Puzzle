@@ -1,0 +1,22 @@
+Z	O	S	H	S	O	V	P	E	X	V	C	N	L	D
+M	O	F	X	B	J	P	P	F	R	I	G	I	S	P
+V	X	I	M	G	T	Z	Y	P	H	Z	U	Z	X	X
+N	U	A	J	D	Z	M	W	L	W	L	U	H	I	U
+V	I	D	A	T	T	E	E	S	Y	W	Y	U	W	W
+K	S	S	V	W	T	P	R	R	S	W	Q	L	N	X
+A	F	H	V	M	E	Y	L	A	C	I	G	Q	E	J
+X	F	T	T	Q	Q	R	T	R	I	U	X	K	P	Z
+I	Q	R	X	L	E	U	A	V	F	R	R	S	T	I
+X	I	A	E	T	R	V	M	E	Y	O	Y	Y	U	T
+J	W	E	I	N	X	Y	W	Y	K	F	Z	J	N	H
+X	J	P	I	M	W	M	A	R	S	U	D	I	E	U
+S	U	J	F	W	I	Q	S	Y	W	Z	D	C	L	D
+J	X	U	X	E	E	Z	G	J	K	A	O	Q	G	G
+C	D	J	H	D	J	W	J	A	D	M	N	S	Y	F
+
+EARTH
+JUPITER
+MARS
+MERCURY
+NEPTUNE
+SATURN
