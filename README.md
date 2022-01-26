@@ -19,7 +19,7 @@ followed by a blank line, and a list of words to search for in the puzzle. The p
   ```
   $ git clone https://github.com/adellinekania/Tucil-Word-Search-Puzzle.gut
   ```
-* Run java Main file
+* Run java Main file <br>
   In the src folder
   $ java ./Main.java
   or
