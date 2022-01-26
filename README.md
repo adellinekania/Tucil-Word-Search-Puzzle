@@ -19,7 +19,11 @@ followed by a blank line, and a list of words to search for in the puzzle. The p
   ```
   $ git clone https://github.com/adellinekania/Tucil-Word-Search-Puzzle.gut
   ```
-* In the bin folder
+* Run java Main file
+  In the src folder
+  $ java ./Main.java
+  or
+  In the bin folder
   $ java -cp Main
 * Input the txt file
   ex: test\large.txt
